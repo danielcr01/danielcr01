@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danielcr01
-- 👀 I’m interested in surf
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me mobile phone or gmail
